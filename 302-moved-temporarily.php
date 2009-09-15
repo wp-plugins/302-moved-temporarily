@@ -4,7 +4,7 @@ Plugin Name: 302 Moved Temporarily
 Plugin URI: 
 Description: Redirects any unauthenticated users to another address by sending them a '302 Moved Temporarily' message.
 Author: Jordan Patterson
-Version: 0.1
+Version: 1.0
 Author URI: http://bluetreemedia.ca
 License: GPL 2.0, @see http://www.gnu.org/licenses/gpl-2.0.html
 */
