@@ -1,5 +1,5 @@
 === 302 Moved Temporarily ===
-Contributors: Blue Tree Media
+Contributors: Jordan Patterson
 Tags: admin, maintenance, under construction, plugin, development, 302, temporary, mode, moved, site changes, redirect
 Requires at least: 2.7
 Tested up to: 2.8
@@ -21,7 +21,7 @@ Adds an item to the 'Options' menu on the admin panel where you can enter the si
 
 == Frequently Asked Questions ==
 
-=What version of PHP does this work with?=
+= What version of PHP does this work with? =
 302 Moved Temporarily requires PHP 5.2 to work properly
 
-==Changelog==
+== Changelog ==
