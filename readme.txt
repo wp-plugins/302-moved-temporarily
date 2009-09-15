@@ -5,7 +5,7 @@ Requires at least: 2.7
 Tested up to: 2.8
 Stable tag: 1.0
 
-Redirects any unauthenticated users to another address and sends them a '302 Moved Temporarily' status.
+When you are working on your site this will redirect any unauthenticated users to another address and send them a '302 Moved Temporarily' status.
 
 == Description ==
 
