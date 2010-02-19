@@ -2,8 +2,8 @@
 Contributors: Jordan Patterson
 Tags: admin, maintenance, under construction, plugin, development, 302, temporary, mode, moved, site changes, redirect
 Requires at least: 2.7
-Tested up to: 2.8
-Stable tag: 1.0
+Tested up to: 2.9.2
+Stable tag: 1.5
 
 When you are working on your site this will redirect any unauthenticated users to another address and send them a '302 Moved Temporarily' status.
 

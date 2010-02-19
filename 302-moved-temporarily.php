@@ -75,7 +75,7 @@ function redirect_validation($input){
 add_action('admin_menu','add_redirect_menu');
 if (function_exists('add_filter') ){
 	add_filter('status_header', 'create_redirect_header', 10, 4);
-	add_action('get_header', 'redirect_to');
+	add_action('wp', 'redirect_to');
 	feed_when_redirected();
 }else{
 	die('Unauthorized');
