@@ -2,8 +2,8 @@
 Contributors: WP Status
 Tags: admin, maintenance, under construction, plugin, development, 302, temporary, mode, moved, site changes, redirect
 Requires at least: 2.7
-Tested up to: 3.4.1
-Stable tag: 1.1
+Tested up to: 3.5.1
+Stable tag: 1.2
 
 Need to redirect your visitors temporarily? This plugin will redirect any unauthenticated users to another url and still allow logged in users to use the site.
 
