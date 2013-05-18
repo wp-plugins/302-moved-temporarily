@@ -1,5 +1,5 @@
 === 302 Moved Temporarily ===
-Contributors: WP Status
+Contributors: Jordan Patterson
 Tags: admin, maintenance, under construction, plugin, development, 302, temporary, mode, moved, site changes, redirect
 Requires at least: 2.7
 Tested up to: 3.5.1
@@ -12,8 +12,6 @@ Need to redirect your visitors temporarily? This plugin will redirect any unauth
 Redirects any unauthenticated users to another url and sends them a '302 Moved Temporarily' status.
 Ideal for sites that are under development especially if the site is being moved or currently has an older version.
 Adds an item to the 'Options' menu on the admin panel where you can enter the site you want to redirect users to.
-
-From the creators of [wpstatus.com](http://www.wpstatus.com/)
 
 == Installation ==
 
